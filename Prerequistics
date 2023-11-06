@@ -1,0 +1,10 @@
+Prerequistics for Cucumber project
+
+Editor : Intellij
+Tool    : Selenium
+Program : Java
+Framework : Cucumber
+VCS      : GIT
+Repo     : GITHUB
+POM      : MAVEN
+CI       : Jenkins
